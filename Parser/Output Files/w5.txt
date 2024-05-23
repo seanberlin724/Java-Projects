@@ -1,0 +1,44 @@
+Next token is: 0, Next lexeme is f
+Enter <Prog>
+Enter <Dcls>
+Enter <Dcl>
+Next token is: 3, Next lexeme is b
+Next token is: 1, Next lexeme is i
+Exit <Dcl>
+Enter <Dcls>
+Enter <Dcl>
+Next token is: 3, Next lexeme is a
+Next token is: 3, Next lexeme is a
+Exit <Dcl>
+Exit <Dcls>
+Exit <Dcls>
+Enter <Stmts>
+Enter <Stmt>
+Next token is: 4, Next lexeme is =
+Next token is: 7, Next lexeme is 5
+Enter <Val>
+Next token is: 3, Next lexeme is b
+Exit <Val>
+Exit <Stmt>
+Enter <Stmts>
+Enter <Stmt>
+Next token is: 4, Next lexeme is =
+Next token is: 3, Next lexeme is a
+Enter <Val>
+Next token is: 5, Next lexeme is +
+Exit <Val>
+Enter <Expr>
+Next token is: 8, Next lexeme is 3.2
+Enter <Val>
+Next token is: 2, Next lexeme is p
+Exit <Val>
+Exit <Expr>
+Exit <Stmt>
+Enter <Stmts>
+Enter <Stmt>
+Next token is: 3, Next lexeme is b
+Exit <Stmt>
+Exit <Stmts>
+Exit <Stmts>
+Exit <Stmts>
+Exit <Prog>

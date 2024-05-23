@@ -1,0 +1,17 @@
+Next token is: 3, Next lexeme is a
+Enter <Prog>
+Enter <Stmts>
+Enter <Stmt>
+Next token is: 4, Next lexeme is =
+Next token is: 7, Next lexeme is 5
+Enter <Val>
+Next token is: 2, Next lexeme is p
+Exit <Val>
+Exit <Stmt>
+Enter <Stmts>
+Enter <Stmt>
+Next token is: 3, Next lexeme is a
+Exit <Stmt>
+Exit <Stmts>
+Exit <Stmts>
+Exit <Prog>

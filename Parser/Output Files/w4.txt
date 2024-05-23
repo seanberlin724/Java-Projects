@@ -1,0 +1,14 @@
+Next token is: 0, Next lexeme is f
+Enter <Prog>
+Enter <Dcls>
+Enter <Dcl>
+Next token is: 3, Next lexeme is b
+Next token is: 1, Next lexeme is i
+Exit <Dcl>
+Enter <Dcls>
+Enter <Dcl>
+Next token is: 3, Next lexeme is a
+Exit <Dcl>
+Exit <Dcls>
+Exit <Dcls>
+Exit <Prog>

@@ -1,0 +1,17 @@
+Next token is: 1, Next lexeme is i
+Enter <Prog>
+Enter <Dcls>
+Enter <Dcl>
+Next token is: 3, Next lexeme is a
+Next token is: 3, Next lexeme is a
+Exit <Dcl>
+Exit <Dcls>
+Enter <Stmts>
+Enter <Stmt>
+Next token is: 4, Next lexeme is =
+Next token is: 7, Next lexeme is 5
+Enter <Val>
+Exit <Val>
+Exit <Stmt>
+Exit <Stmts>
+Exit <Prog>
